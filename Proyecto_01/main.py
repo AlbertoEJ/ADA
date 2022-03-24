@@ -1,11 +1,6 @@
 from grafo2dot import guardar_grafo
 from grafo import Grafo
 
-
-from grafo2dot import guardar_grafo
-from grafo import Grafo
-
-
 #Generacion de grafos de mallas
 grafo_malla_30 = Grafo(dirigido=False)
 grafo_malla_30.grafo_malla(5, 6) #Grafo de 5*6 nodos
