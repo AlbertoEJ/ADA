@@ -80,7 +80,7 @@ help(guardar_grafo)
 #### Modelo Barabási-Albert 100 nodos y grado 9
 ![albert 100 nodos][albert2]
 ### Modelo Barabási-Albert 500 nodos y grado 20
-![aberto 500 nodos][alberto3]
+![aberto 500 nodos][albert3]
 
 [albert1]: https://github.com/AlbertoEJ/ADA/blob/main/Proyecto_01/archivos_gv_e_imagenes/babarasi/babarasi_30_05.png
 [albert2]: https://github.com/AlbertoEJ/ADA/blob/main/Proyecto_01/archivos_gv_e_imagenes/babarasi/babarasi_100_09.png
