@@ -11,6 +11,12 @@ El proyecto 1 consiste de una biblioteca que se encuentra dentro de la carpeta "
 + grafo2dot.py Archivo que hace la conversión o traducción a lenguaje DOT para hacerlo compatible con GraphViz y posteriormente abrirlo con el software de visualización de grafos Gephi
 + main.py Archivo que contiene la generación y guardado de cada uno de los 18 ejemplos para este proyecto 1 (3 de cada algoritmo)
 + Carpeta archivos_gv_e_imagenes Que contiene por subcarpetas los algortimos con sus correspondientes archivos .gv e imágenes
++ proyecto01_ipynb este archivo es un notebook en caso de quererlo replicar en Notebook
+
+## Ejecución en local y en nube (Colab)
+Para este proyecto realicé dos versiones
+1. Ejecución en nube utilizando Google Colab. Para ejecutar el código se debe ir a la siguiente liga https://colab.research.google.com/drive/1pPVct7vIxeCeOwvTjumvnhrN7ooNv31g?usp=sharing y ejecutar todas las celdas (iniciando de arriba para abajo). No debería existir problema alguno
+2. Ejecución en local. Si se clona el repositorio se puede ejecutar en local. Solo se pide leer antes el archivo grafo2dot pues es importante (solo en local).
 
 ## ¿Cómo veo la documentación?
 Para revisar la documentación es necesario hacer uso del método *help(método)* que nos brindará información sobre cómo y qué hace un método.
