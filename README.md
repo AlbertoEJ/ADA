@@ -15,7 +15,7 @@ El proyecto 1 consiste de una biblioteca que se encuentra dentro de la carpeta "
 
 ## Ejecución en local y en nube (Colab)
 Para este proyecto realicé dos versiones
-1. Ejecución en nube utilizando Google Colab. Para ejecutar el código se debe ir a la siguiente liga https://colab.research.google.com/drive/1pPVct7vIxeCeOwvTjumvnhrN7ooNv31g?usp=sharing y ejecutar todas las celdas (iniciando de arriba para abajo). No debería existir problema alguno
+1. Ejecución en nube utilizando Google Colab. Para ejecutar el código se debe ir a la siguiente liga https://colab.research.google.com/drive/1PWOSfsPKxTcB6rcTfrVEAEQhDyIVwHF_?usp=sharing y ejecutar todas las celdas (iniciando de arriba para abajo). No debería existir problema alguno. Los grafos generados se guardan en la sección de "files" dentro de Google Colab (icono de folder en el menú izquierdo).
 2. Ejecución en local. Si se clona el repositorio se puede ejecutar en local. Solo se pide leer antes el archivo grafo2dot pues es importante (solo en local).
 
 ## ¿Cómo veo la documentación?
@@ -36,7 +36,6 @@ help(guardar_grafo)
 ![Grafo en malla de 100 nodos (10x10)][malla2]
 #### Malla 500 nodos (50x10)
 ![Grafo en malla de 500 nodos (50x10)][malla3]
-
 
 [malla1]: https://github.com/AlbertoEJ/ADA/blob/main/Proyecto_01/archivos_gv_e_imagenes/malla/malla_30.png "Malla 30"
 [malla2]: https://github.com/AlbertoEJ/ADA/blob/main/Proyecto_01/archivos_gv_e_imagenes/malla/malla_100.png "Malla 100"
